@@ -1,16 +1,14 @@
-## Hi there 👋
+## bem vindo ao meu perfil! 
 
-<!--
-**3AMMC021/3AMMC021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu me chamo Marina
 
-Here are some ideas to get you started:
+- Estou cursando na plataforma [Alura], disponibilizada pelo governo.(https://www.alura.com.br)
+- Desenvolvendo na linguagem JavaScript
+- utilizarei esse espaço a fim de compartilhar os projetos realizados por mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Você pode entrar em contato comigo por meio de 📫
+
+00001092269009sp@al.educacao.sp.gov.br
+
+(![image](https://github.com/3AMMC021/3AMMC021/assets/170571462/cee925c1-23cc-4c7e-9afb-57d7d6239274)
+
