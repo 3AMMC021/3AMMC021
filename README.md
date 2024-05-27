@@ -3,8 +3,8 @@
 Eu me chamo Marina
 
 - Estou cursando na plataforma [Alura], disponibilizada pelo governo.(https://www.alura.com.br)
-- Desenvolvendo na linguagem JavaScript
-- utilizarei esse espaço a fim de compartilhar os projetos realizados por mim
+- Desenvolvendo-me na linguagem JavaScript
+- Utilizarei esse espaço a fim de compartilhar os projetos realizados por mim
 
 ## Você pode entrar em contato comigo por meio de 📫
 
